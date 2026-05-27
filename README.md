@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shuvro-rongin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Shuvro Rongin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shuvro-rongin/) |
+| **Get License** | [Request Licensing for Shuvro Rongin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shuvro-rongin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3c0ae4371ff3c635647aa3dbccfdeced8b9c0af83d906074a192e1245c8b442a` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

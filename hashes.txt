@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shuvro Rongin
+
+This log tracks the cryptographic history and versioning for the song **Shuvro Rongin** (shuvro-rongin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T01:04:56.299150 | `v1` | `3c0ae4371ff3c635647aa3dbccfdeced8b9c0af83d906074a192e1245c8b442a` | `2e326ef0e4e8b455cb233caa66b94427500a46af57e172f96378e9ed45f62a93` | `2026-05-28_shuvro-rongin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
